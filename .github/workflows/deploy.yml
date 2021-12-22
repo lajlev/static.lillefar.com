@@ -1,5 +1,5 @@
-name: Deploy on Dokku
-uses: dokku/github-action@v1.0.1
+---
+name: 'Deploy on Dokku'
 
 on:
   push:
